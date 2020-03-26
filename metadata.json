@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2020-03-26",
+      "ci-build-number": "1.0.7",
+      "ci-project": "sanipueblo-law-xml",
+      "codified-date": "2019-10-22",
+      "platform": {
+        "reproducible": "true",
+        "version": "2020.2.0.dev8619"
+      },
+      "repositories": [
+        {
+          "commit": "074d2a467ea4a3a63e7487364e6ae843573d00a5",
+          "name": "sanipueblo/law-xml"
+        },
+        {
+          "commit": "300e4ba67b1328a95e9b98161f2bebe354efc906",
+          "name": "sanipueblo/law-xml-codified-preview"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "https://law.sanipueblo.org",
+      "html-bulk": "https://github.com/sanipueblo/law-html",
+      "xml-bulk": "https://github.com/sanipueblo/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": ""
+  }
+}
