@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2022-04-16",
-      "ci-build-number": "1.0.22",
+      "ci-build-number": "1.0.23",
       "ci-project": "test/sanipueblo-law-xml",
       "codified-date": "2022-01-03",
       "platform": {
