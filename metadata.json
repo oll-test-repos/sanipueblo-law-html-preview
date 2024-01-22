@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2022-04-23",
-      "ci-build-number": "1.0.26",
+      "build-date": "2024-01-22",
+      "ci-build-number": "1.0.32",
       "ci-project": "test/sanipueblo-law-xml",
-      "codified-date": "2022-01-03",
+      "codified-date": "2023-03-28",
       "platform": {
         "reproducible": "false",
-        "version": "2.6.0"
+        "version": "2.14.0.dev1448"
       },
       "repositories": [
         {
-          "commit": "7a5280943f6bf9fa59dc27b96eddd24dc13ce1e3",
+          "commit": "7d5447b59beaf54df49d8fb9559cb519eb5f349c",
           "name": "sanipueblo/law-xml"
         },
         {
-          "commit": "34e54b4cfe268d318c5ef0836eb65ffdd3e25b3b",
+          "commit": "e5823207df1692abcf18d0077bbf80293082e2c1",
           "name": "sanipueblo/law-xml-codified-preview"
         }
       ]
@@ -24,7 +24,7 @@
       "html": "https://law.sanipueblo.org",
       "html-bulk": "https://github.com/oll-test-repos/sanipueblo-law-html",
       "law-git": "https://github.com/oll-test-repos/sanipueblo-law.git",
-      "static-assets": "https://github.com/oll-test-repos/openlawlibrary-law-static-assets",
+      "static-assets": "https://github.com/oll-test-repos/sanipueblo-law-static-assets",
       "xml-bulk": "https://github.com/oll-test-repos/sanipueblo-law-xml"
     },
     "contact": {
